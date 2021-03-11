@@ -110,7 +110,7 @@
     <arquillian.version>1.1.13.Final</arquillian.version>
     <arquillian-cube.version>1.4.0</arquillian-cube.version>
 
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <kubernetes-client.version>2.3.1</kubernetes-client.version>
   </properties>
 
